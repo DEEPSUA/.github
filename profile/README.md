@@ -4,8 +4,6 @@
   <img src="deepsua_icon.jpeg" />
 </p>
 
-[![DEEPSUA Bot Docs](https://github.com/DEEPSUA/DeepsUA_Bot/actions/workflows/deploy-docs.yml/badge.svg)](https://github.com/DEEPSUA/DeepsUA_Bot/actions/workflows/deploy-docs.yml)
-
 Benvinguts i benvingudes al repositori oficial de DEEPSUA. Ací podeu trobar les ferramentes desenvolupades pel grup de treball d'Infraestructures, a més de les ferramentes d'organització de la Delegació.
 
 Accedeix a la pestanya *Projects* per veure els projectes actius!
